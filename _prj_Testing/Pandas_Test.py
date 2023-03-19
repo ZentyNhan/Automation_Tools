@@ -8,4 +8,21 @@ test_dict = {
 
 a = PD_Test.DataFrame(test_dict)
 
-print(a)
+
+b = a['P1']
+# print(b)
+c = a.P1
+# print(c)
+
+d = a[['P1', 'P2']]
+# print(d)
+
+e = a.columns
+# print(e)
+
+f = a.iloc[[0]]
+print(f)
+
+g = a.iloc[[0,1]]
+print(g)
+
