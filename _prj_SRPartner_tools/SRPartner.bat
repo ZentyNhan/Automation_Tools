@@ -1,0 +1,1 @@
+pyuic5 -x SRPartner.ui -o SRPartner.py

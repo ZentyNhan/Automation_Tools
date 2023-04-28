@@ -1,0 +1,4 @@
+cd /usr
+killall -s SIGINT -w clara
+var1=$(date +%d_%m_%y_%H_%M)
+mv /usr/claraVR /usr/claraVR_bk_$var1

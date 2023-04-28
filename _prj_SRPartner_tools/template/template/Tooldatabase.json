@@ -1,0 +1,83 @@
+{
+	"Tab": {
+        "Info_tabWidget": {
+            "CurrentIndex": 0
+        }
+    },
+    "TabInfo": {
+        "Testware": {
+            "WFP_lineEdit": "",
+            "SWP_lineEdit": "",
+            "PRJ_comboBox": "",
+            "Var_comboBox": "",
+            "Type_comboBox": "",
+            "RCV_comboBox": "",
+            "PN_lineEdit": "",
+            "BL_lineEdit": "",
+            "RCV_lineEdit": "",
+            "SWVer_lineEdit": "",
+            "Tester_comboBox": "",
+            "SWPCM_comboBox": "",
+            "TPM_lineEdit": "",
+            "TC_comboBox": "",
+            "HWPCM_lineEdit": "",
+            "Position": ""
+        },
+        "Report": {
+            "Report_SS_lineEdit": "",
+            "Report_Protocol_lineEdit": "",
+            "Report_BKS_lineEdit": "",
+            "Report_SRCR_lineEdit": "",
+            "BKS_lineEdit": "",
+            "SS_lineEdit": "",
+            "SRCR_lineEdit": "",
+            "TTicket_lineEdit": "",
+            "Reviewer_lineEdit": "",
+            "TM_lineEdit": ""
+        }
+    },
+    "TabSRCheck": {
+        "SR_Filepath": {
+            "SB_lineEdit": "",
+            "Diatester_lineEdit": "",
+            "CANalyzer_lineEdit": "",
+            "CANape_lineEdit": "",
+            "FaultID_lineEdit": "",
+            "PubDBC_lineEdit": "",
+            "PriDBC_lineEdit": "",
+            "Oxflash_lineEdit": "",
+            "Nxflash_lineEdit": "",
+            "ESBBOX_lineEdit": ""
+        },
+        "Control": {
+            "TXID_lineEdit": "",
+            "RXID_lineEdit": "",
+            "AS_lineEdit": "",
+            "DIDList_lineEdit": "",
+            "Diagnostic_lineEdit": "",
+            "UDS_lineEdit": "",
+            "UDSSheet_lineEdit": "",
+            "DS_checkBox":"",
+            "PS_checkBox":"",  
+            "ES_checkBox":"",    
+            "PhysDiag_checkBox":"",
+            "FuncDiag_checkBox":"",
+            "Sub01_checkBox":"",
+            "Sub02_checkBox":"", 
+            "Sub03_checkBox":"",
+            "SPRMIB_checkBox":""
+        }
+    },
+    "TabFSI": {
+        "FSI_Filepath": {
+            "FSI_SB_lineEdit": "",
+            "FSI_Diatester_lineEdit": "",
+            "FSI_CANalyzer_lineEdit": "",
+            "FSI_CANape_lineEdit": "",
+            "FSI_FaultID_lineEdit": "",
+            "FSI_PubDBC_lineEdit": "",
+            "FSI_PriDBC_lineEdit": "",
+            "ClaraTE_lineEdit": ""
+        }
+    }
+}

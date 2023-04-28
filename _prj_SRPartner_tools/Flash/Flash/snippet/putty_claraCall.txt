@@ -1,0 +1,2 @@
+cd /usr/claraVR/_prj_CA_C385_FR_
+DISPLAY=:0 ./clara
